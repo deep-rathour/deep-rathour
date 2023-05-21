@@ -5,7 +5,7 @@ However, my current excitement lies in exploring the realm of software developme
 
 As a highly motivated and results-driven professional, I am now actively seeking entry-level roles in software development.
 
-###"The only way to do great work is to love what you do." - Steve Jobs
+"The only way to do great work is to love what you do." - Steve Jobs
 
 <!--
 **deep-rathour/deep-rathour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
