@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm a Python Developer based in Melbourne with 16+ years of experience in government, marketing, and hospitality, I excel in developing effective marketing strategies, managing projects, and exceeding targets.
+However, my current excitement lies in exploring the realm of software development, particularly with Python. The process of problem-solving and leveraging the capabilities of computer systems inspires me greatly.
+As a highly motivated and results-driven professional, I am now actively seeking entry-level roles in software development.
 
 <!--
 **deep-rathour/deep-rathour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
