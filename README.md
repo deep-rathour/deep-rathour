@@ -5,6 +5,8 @@ However, my current excitement lies in exploring the realm of software developme
 
 As a highly motivated and results-driven professional, I am now actively seeking entry-level roles in software development.
 
+and, 🌱 I’m currently learning to utilise Django Framework to build highly capable e-commerce website. please check my credetials @ http://www.sandeeprathour.com
+
 "The only way to do great work is to love what you do." - Steve Jobs
 
 <!--
