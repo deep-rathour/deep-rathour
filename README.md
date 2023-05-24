@@ -7,7 +7,7 @@ As a highly motivated and results-driven professional, I am now actively seeking
 
 and, 🌱 I’m currently learning to utilise Django Framework to build highly capable e-commerce website. please check my credetials @ http://www.sandeeprathour.com 
 
-Click here to connect over Linkdin 👉<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="sandeepsinghrathour" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/sandeepsinghrathour?trk=profile-badge"><b>Sandeep Singh Rathour</b></a></div>
+Click here 👇 to connect over Linkdin.<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="sandeepsinghrathour" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/sandeepsinghrathour?trk=profile-badge"><b>Sandeep Singh Rathour</b></a></div>
               
 
 "The only way to do great work is to love what you do." - Steve Jobs
