@@ -6,16 +6,16 @@ However, my current excitement lies in exploring the realm of software developme
 As a highly motivated and results-driven professional, I am now actively seeking entry-level roles in software development.
 
 and, 🌱 I’m currently learning to utilise Django Framework to build highly capable e-commerce website. please check my credetials @ http://www.sandeeprathour.com
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="sandeepsinghrathour" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/sandeepsinghrathour?trk=profile-badge"><b>Sandeep Singh Rathour</b></a></div>
+              
 
 "The only way to do great work is to love what you do." - Steve Jobs
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sandeepsinghrathour" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/sandeepsinghrathour?trk=profile-badge">Sandeep Singh</a></div>
               
 
 <!--
 **deep-rathour/deep-rathour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
