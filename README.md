@@ -9,6 +9,10 @@ and, 🌱 I’m currently learning to utilise Django Framework to build highly c
 
 "The only way to do great work is to love what you do." - Steve Jobs
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sandeepsinghrathour" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://au.linkedin.com/in/sandeepsinghrathour?trk=profile-badge">Sandeep Singh</a></div>
+              
+
 <!--
 **deep-rathour/deep-rathour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
