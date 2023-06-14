@@ -17,6 +17,8 @@ Click here 👇 to connect over Linkedin.<div class="badge-base LI-profile-badge
 <!--
 **deep-rathour/deep-rathour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d1701881-0cdc-4bb2-a89f-30651a7803f3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
